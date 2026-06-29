@@ -1,0 +1,7 @@
+split,label,label_name,count,total_rows,percentage
+train,0,SAFE,274,436,62.84
+train,1,INJECTION,162,436,37.16
+validation,0,SAFE,69,110,62.73
+validation,1,INJECTION,41,110,37.27
+test,0,SAFE,56,116,48.28
+test,1,INJECTION,60,116,51.72

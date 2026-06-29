@@ -1,0 +1,8 @@
+check_name,issue_count,status
+train_duplicate_text_for_model,0,Pass
+validation_duplicate_text_for_model,0,Pass
+test_duplicate_text_for_model,0,Pass
+train_validation_overlap,0,Pass
+train_test_overlap,0,Pass
+validation_test_overlap,0,Pass
+conflicting_labels_after_preparation,0,Pass
