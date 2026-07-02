@@ -1,0 +1,2 @@
+model_name,model_checkpoint,best_checkpoint,split,true_negative,false_positive,false_negative,true_positive,total_errors,security_critical_false_negatives
+distilbert,distilbert-base-uncased,/content/distilbert_training_output/checkpoint-165,test,56,0,11,49,11,11

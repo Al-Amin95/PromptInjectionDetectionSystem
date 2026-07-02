@@ -1,0 +1,2 @@
+train_runtime,train_samples_per_second,train_steps_per_second,total_flos,train_loss,epoch,training_time_seconds,training_time_minutes,best_checkpoint,best_validation_f1,epochs_configured,early_stopping_used
+40.0362,54.451,6.869,288778929070080.0,0.19059187330982902,5.0,40.43,0.67,/content/secbert_training_output_full_5_epochs/checkpoint-220,0.9512195121951219,5,False

@@ -1,0 +1,4 @@
+split,rows,input_length,attention_mask_length,labels
+train,436,512,512,436
+validation,110,512,512,110
+test,116,512,512,116

@@ -1,0 +1,2 @@
+train_runtime,train_samples_per_second,train_steps_per_second,total_flos,train_loss,epoch,training_time_seconds,training_time_minutes,best_checkpoint,best_validation_f1,epochs_configured,expected_total_steps,actual_global_step,early_stopping_used
+182.9057,11.919,1.504,573582100684800.0,0.1832985665581443,5.0,185.46,3.09,/content/roberta_training_output_full_5_epochs/checkpoint-165,0.9620253164556962,5,275,275,False

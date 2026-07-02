@@ -1,0 +1,2 @@
+model_name,best_checkpoint,best_validation_f1,model_folder,tokenizer_folder,model_saved,tokenizer_saved,reload_test_passed,reload_prediction_label,reload_prediction_confidence
+secbert,/content/secbert_training_output_full_5_epochs/checkpoint-220,0.9512195121951219,/content/drive/MyDrive/USW_Dissertation/Prompt-Injection-Detection-System-SHAP/models/secbert/best_model,/content/drive/MyDrive/USW_Dissertation/Prompt-Injection-Detection-System-SHAP/models/secbert/tokenizer,True,True,True,INJECTION,0.9991809725761414

@@ -1,0 +1,4 @@
+split,total_rows,total_errors,false_positives,false_negatives,security_critical_false_negatives,mean_error_confidence,mean_false_negative_confidence,mean_false_positive_confidence
+validation,110,3,0,3,3,0.9890639185905457,0.9890639185905457,
+test,116,11,0,11,11,0.8605260252952576,0.8605260252952576,
+validation_and_test,226,14,0,14,14,0.888069748878479,0.888069748878479,

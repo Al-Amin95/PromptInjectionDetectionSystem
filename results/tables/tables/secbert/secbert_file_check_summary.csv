@@ -1,0 +1,2 @@
+model_name,expected_output_count,repo_available,drive_available,missing_repo,missing_drive,all_outputs_available
+secbert,32,32,32,0,0,True

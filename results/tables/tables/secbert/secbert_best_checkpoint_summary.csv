@@ -1,0 +1,2 @@
+model_name,best_checkpoint,best_validation_metric_name,best_validation_metric_value,training_time_minutes,early_stopping_used
+secbert,/content/secbert_training_output_full_5_epochs/checkpoint-220,f1,0.9512195121951219,0.67,False

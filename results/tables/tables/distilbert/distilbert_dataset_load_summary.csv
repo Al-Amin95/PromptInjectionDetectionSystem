@@ -1,0 +1,4 @@
+split,rows,safe,injection
+train,436,274,162
+validation,110,69,41
+test,116,56,60

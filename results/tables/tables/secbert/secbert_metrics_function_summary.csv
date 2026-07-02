@@ -1,0 +1,2 @@
+model_name,positive_class_id,positive_class_name,main_selection_metric,accuracy_test,precision_test,recall_test,f1_test,auc_roc_test
+secbert,1,INJECTION,f1,1.0,1.0,1.0,1.0,1.0

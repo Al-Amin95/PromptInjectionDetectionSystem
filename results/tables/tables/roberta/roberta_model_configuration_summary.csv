@@ -1,0 +1,2 @@
+model_name,model_checkpoint,experiment_name,task_type,problem_type,num_labels,max_length,random_seed,positive_class_id,positive_class_name,num_train_epochs,train_batch_size,eval_batch_size,learning_rate,weight_decay,warmup_ratio,metric_for_best_model,early_stopping_used,early_stopping_patience
+roberta,roberta-base,roberta_finetuning,binary_text_classification,single_label_classification,2,512,42,1,INJECTION,5,8,16,2e-05,0.01,0.1,f1,False,

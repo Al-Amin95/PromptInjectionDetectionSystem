@@ -1,0 +1,2 @@
+model_name,model_folder,tokenizer_folder,model_exists,tokenizer_exists,model_size_mb,tokenizer_size_mb,large_model_files_in_repo_count,reload_verified,reload_prediction_label,reload_prediction_confidence
+secbert,/content/drive/MyDrive/USW_Dissertation/Prompt-Injection-Detection-System-SHAP/models/secbert/best_model,/content/drive/MyDrive/USW_Dissertation/Prompt-Injection-Detection-System-SHAP/models/secbert/tokenizer,True,True,319.51,1.15,0,True,INJECTION,0.9991809725761414

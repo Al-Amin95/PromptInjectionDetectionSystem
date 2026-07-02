@@ -1,0 +1,2 @@
+model_name,model_checkpoint,output_dir,epochs,learning_rate,weight_decay,train_batch_size,eval_batch_size,gradient_accumulation_steps,warmup_ratio,steps_per_epoch,estimated_total_steps,eval_strategy,save_strategy,logging_steps,load_best_model_at_end,metric_for_best_model,greater_is_better,save_total_limit,fp16,early_stopping_used,early_stopping_patience
+distilbert,distilbert-base-uncased,/content/distilbert_training_output,5,2e-05,0.01,8,16,1,0.1,55,275,epoch,epoch,10,True,f1,True,2,True,False,

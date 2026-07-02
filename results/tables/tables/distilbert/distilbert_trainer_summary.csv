@@ -1,0 +1,2 @@
+model_name,train_rows,validation_rows,model_device,callbacks,early_stopping_present,epochs,best_model_metric,load_best_model_at_end
+distilbert,436,110,cuda:0,"DefaultFlowCallback, NotebookProgressCallback",False,5,f1,True

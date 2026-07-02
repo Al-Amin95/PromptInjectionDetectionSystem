@@ -1,0 +1,2 @@
+model_name,cuda_available,device,gpu_name,gpu_memory_gb,pytorch_version
+secbert,True,cuda,Tesla T4,14.56,2.11.0+cu128

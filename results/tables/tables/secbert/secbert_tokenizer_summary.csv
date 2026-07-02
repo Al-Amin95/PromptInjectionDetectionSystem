@@ -1,0 +1,2 @@
+model_name,model_checkpoint,tokenizer_class,is_fast,vocab_size,sample_sequence_length,tokenizer_fields,token_type_ids_present
+secbert,jackaduma/SecBERT,BertTokenizer,True,52000,512,"input_ids, token_type_ids, attention_mask",True
