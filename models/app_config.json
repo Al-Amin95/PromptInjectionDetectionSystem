@@ -1,0 +1,16 @@
+{
+    "model_key": "DistilBERT",
+    "checkpoint": "distilbert-base-uncased",
+    "max_length": 128,
+    "num_labels": 2,
+    "id2label": {
+        "0": "Safe",
+        "1": "Injected"
+    },
+    "label2id": {
+        "Safe": 0,
+        "Injected": 1
+    },
+    "injected_class_index": 1,
+    "classification_threshold": 0.5
+}
