@@ -1,0 +1,2 @@
+model_name,model_checkpoint,model_class,device,num_labels,problem_type,total_parameters,trainable_parameters,logits_shape
+roberta,roberta-base,RobertaForSequenceClassification,cuda:0,2,single_label_classification,124647170,124647170,"(1, 2)"

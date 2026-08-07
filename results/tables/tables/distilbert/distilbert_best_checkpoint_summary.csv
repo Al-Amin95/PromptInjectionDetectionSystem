@@ -1,0 +1,2 @@
+model_name,best_checkpoint,best_validation_metric_name,best_validation_metric_value,training_time_minutes,epochs_configured,expected_total_steps,actual_global_step,early_stopping_used,early_stopping_patience
+distilbert,/content/distilbert_training_output/checkpoint-165,f1,0.9620253164556962,1.12,5,275,275,False,

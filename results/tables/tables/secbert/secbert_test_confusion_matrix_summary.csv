@@ -1,0 +1,2 @@
+model_name,split,true_negatives,false_positives,false_negatives,true_positives,false_positive_rate,false_negative_rate,true_positive_rate,true_negative_rate,accuracy_from_confusion_matrix
+secbert,test,54,2,10,50,0.03571428571428571,0.16666666666666666,0.8333333333333334,0.9642857142857143,0.896551724137931

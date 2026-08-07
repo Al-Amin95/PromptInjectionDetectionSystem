@@ -1,0 +1,2 @@
+model_name,split,rows,accuracy,precision,recall,f1,auc_roc,correct_predictions,incorrect_predictions
+secbert,validation,110,0.9636363636363636,0.9512195121951219,0.9512195121951219,0.9512195121951219,0.9904559915164369,106,4

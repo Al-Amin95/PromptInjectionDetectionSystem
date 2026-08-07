@@ -1,0 +1,2 @@
+model_name,output_dir,epochs,train_batch_size,eval_batch_size,learning_rate,weight_decay,warmup_steps,steps_per_epoch,total_training_steps,save_strategy,eval_strategy,load_best_model_at_end,metric_for_best_model,fp16,early_stopping_used
+secbert,/content/secbert_training_output_full_5_epochs,5,8,8,2e-05,0.01,27,55,275,epoch,epoch,True,f1,True,False

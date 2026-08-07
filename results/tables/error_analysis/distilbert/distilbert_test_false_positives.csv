@@ -1,0 +1,1 @@
+id,original_text,text_for_model,split,true_label,true_label_name,predicted_label,predicted_label_name,safe_probability,injection_probability,prediction_correct,prediction_confidence,confidence_margin,true_label_probability,prediction_error_type

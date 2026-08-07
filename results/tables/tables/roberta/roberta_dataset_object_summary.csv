@@ -1,0 +1,4 @@
+split,rows,columns,input_length,label_example
+train,436,"input_ids, attention_mask, labels",512,0
+validation,110,"input_ids, attention_mask, labels",512,1
+test,116,"input_ids, attention_mask, labels",512,1

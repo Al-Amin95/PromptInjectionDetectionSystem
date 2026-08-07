@@ -1,0 +1,2 @@
+model_name,model_checkpoint,experiment_name,num_labels,max_length,random_seed,label_0,label_1,positive_class,epochs,train_batch_size,eval_batch_size,learning_rate,weight_decay,warmup_ratio,best_model_metric,early_stopping_used
+secbert,jackaduma/SecBERT,secbert_full_5_epochs,2,512,42,SAFE,INJECTION,INJECTION,5,8,8,2e-05,0.01,0.1,f1,False

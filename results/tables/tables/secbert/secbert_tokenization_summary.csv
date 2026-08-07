@@ -1,0 +1,4 @@
+split,rows,sequence_length,first_label,fields
+train,436,512,0,"input_ids, token_type_ids, attention_mask, labels"
+validation,110,512,1,"input_ids, token_type_ids, attention_mask, labels"
+test,116,512,1,"input_ids, token_type_ids, attention_mask, labels"

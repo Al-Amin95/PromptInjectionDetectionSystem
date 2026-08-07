@@ -1,0 +1,2 @@
+model_name,model_checkpoint,tokenizer_class,fast_tokenizer,max_length,tokenizer_fields,input_ids_length,attention_mask_length
+roberta,roberta-base,RobertaTokenizer,True,512,"['input_ids', 'attention_mask']",512,512

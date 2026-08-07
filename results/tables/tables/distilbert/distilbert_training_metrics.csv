@@ -1,0 +1,2 @@
+train_runtime,train_samples_per_second,train_steps_per_second,total_flos,train_loss,epoch,training_time_seconds,training_time_minutes,best_checkpoint,best_validation_f1,epochs_configured,expected_total_steps,actual_global_step,early_stopping_used,early_stopping_patience
+66.5514,32.757,4.132,288778929070080.0,0.19145336584611372,5.0,67.14,1.12,/content/distilbert_training_output/checkpoint-165,0.9620253164556962,5,275,275,False,

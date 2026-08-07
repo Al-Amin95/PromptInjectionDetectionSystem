@@ -1,0 +1,2 @@
+model_name,model_checkpoint,experiment_name,train_rows,validation_rows,test_rows,best_checkpoint,best_validation_f1,test_accuracy,test_precision,test_recall,test_f1,test_auc_roc,true_negatives,false_positives,false_negatives,true_positives,early_stopping_used,test_set_used_for_final_evaluation
+secbert,jackaduma/SecBERT,secbert_full_5_epochs,436,110,116,/content/secbert_training_output_full_5_epochs/checkpoint-220,0.9512195121951219,0.896551724137931,0.9615384615384616,0.8333333333333334,0.8928571428571429,0.975892857142857,54,2,10,50,False,True
