@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>PromptInjectionDetectionSystem - Page Not Found</title>
+  <link rel="icon" href="{{ url_for('static', filename='images/logo.png') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  <div style="display:flex; flex-direction:column; align-items:center; justify-content:center; height:100vh; text-align:center;">
+    <img src="{{ url_for('static', filename='images/logo.png') }}" alt="logo" style="height:56px; margin-bottom:16px;">
+    <h1 style="font-size:48px; margin:0;">404</h1>
+    <p style="color:var(--text-dim);">This page does not exist.</p>
+    <a href="/"><button class="btn btn-primary">Back to Home</button></a>
+  </div>
+</body>
+</html>
